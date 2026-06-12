@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "AFK-Bot",
     "password": "1.21.11",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "AverCraftSMP.aternos.me",
